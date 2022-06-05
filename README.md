@@ -42,19 +42,19 @@ The component expects an array of destinations (Csomagpontok) as the "points" pr
 
 The component returns the “Megrendelések” list on every change if needed via the function given as the "setResult" property.
 
-## Components
-
-
-
 ## Responsivity
 
 The component has two different layouts depending on the width of the viewport.
 
 ### Small devices (max-width: 768px)
-img img
+![image](https://user-images.githubusercontent.com/84267269/172068411-ccc938fa-a32c-4c19-a5e4-81c8a7c2ca09.png)
+![image](https://user-images.githubusercontent.com/84267269/172068465-97ed43af-d8d7-4ea3-b3bb-b768b5eeaff0.png)
+![image](https://user-images.githubusercontent.com/84267269/172068507-8353e5a1-1e4f-4113-913a-e919ff94c534.png)
 
 ### Large devices (min-width: 768px)
-img img
+![image](https://user-images.githubusercontent.com/84267269/172068789-05772cfa-00c3-4e81-afcd-8555387d79df.png)
+![image](https://user-images.githubusercontent.com/84267269/172068837-969cad3c-999d-43ff-a45d-f3b5f627d993.png)
+![image](https://user-images.githubusercontent.com/84267269/172068875-900ba96d-de63-486f-9a97-2efd01519602.png)
 
 ## Technologies
 - React (18.1.0)
