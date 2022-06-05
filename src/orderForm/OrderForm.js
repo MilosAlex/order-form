@@ -49,6 +49,7 @@ const OrderForm = ({ points, setResult }) => {
     }
 
     const handleDelete = (index) => {
+        if (editing !== null) return;
         const newOrders = [...orders];
         newOrders.splice(index, 1);
         setOrders(newOrders);
